@@ -1,0 +1,12 @@
+<dashboard script="d3xml2.js,d3.min.js" stylesheet="main.css">
+  <label>D3 in  xml</label>
+  <row>
+    <panel>
+      <html>
+        <div id="chart1">
+          
+        </div>
+      </html>
+    </panel>
+  </row>
+</dashboard>
